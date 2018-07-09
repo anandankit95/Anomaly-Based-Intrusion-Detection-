@@ -2,6 +2,11 @@
 * This Repository contains the code to detect intrusions inside a network
 * The Intrusion detection system uses anomaly based method to detect intrusions
 
+# Contributors
+* Ankit Anand
+* Harsh Garg
+* Rajat Nigam
+
 # Dataset Used
 KDD-Cup 1999 dataset
 
